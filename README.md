@@ -1,6 +1,6 @@
 # Evan Jamison
 
-🎓 Data Science @ UC Santa Barbara | Incoming Exchange Student @ Hitotsubashi University (Spring 2026)
+🎓 Data Science @ UC Santa Barbara
 
 Welcome! This site showcases my projects in data science, analytics, and research.
 
